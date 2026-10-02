@@ -1,0 +1,23 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+# Problem     Arithmetic Operators
+# Difficulty  Easy
+# Subdomain   Introduction
+# Platform    HackerRank
+# Language    pypy3
+# Status      Accepted
+# Submitted   2026-10-02, 11:49 p.m.
+# ──────────────────────────────────────────────────
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    s=0
+    pro=1
+    diff=0
+    s=a+b
+    pro=a*b
+    diff=a-b
+    print(s)
+    print(diff)
+    print(pro)
