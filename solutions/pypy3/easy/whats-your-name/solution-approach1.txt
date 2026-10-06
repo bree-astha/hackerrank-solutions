@@ -1,0 +1,15 @@
+# ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
+# Problem     What's Your Name?
+# Difficulty  Easy
+# Subdomain   Strings
+# Platform    HackerRank
+# Language    pypy3
+# Status      Accepted
+# Submitted   2026-10-06, 11:42 p.m.
+# ──────────────────────────────────────────────────
+
+
+def print_full_name (first, last):
+  print(f"Hello {first} {last}! You just delved into python.")
+
