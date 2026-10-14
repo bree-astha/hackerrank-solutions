@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
-# Submitted   2026-10-14, 11:55 p.m.
+# Submitted   2026-10-14, 11:57 p.m.
 # ──────────────────────────────────────────────────
 
 n=int(input().strip())
