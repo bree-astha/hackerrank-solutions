@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    pypy3
 # Status      Accepted
-# Submitted   2026-10-19, 11:40 p.m.
+# Submitted   2026-10-19, 11:41 p.m.
 # ──────────────────────────────────────────────────
 
 x,k=map(int,input().split())
